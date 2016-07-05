@@ -16,6 +16,7 @@
   ],
   "dependencies": {
     "paper-card": "PolymerElements/paper-card",
-    "paper-button": "PolymerElements/paper-button"
+    "paper-button": "PolymerElements/paper-button",
+    "iron-ajax": "PolymerElements/iron-ajax#^1.2.1"
   }
 }
