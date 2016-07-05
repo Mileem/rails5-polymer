@@ -21,4 +21,4 @@
 .byebug_history
 
 # Ignore Bower files
-/assets/components
+/vendor/assets/components
